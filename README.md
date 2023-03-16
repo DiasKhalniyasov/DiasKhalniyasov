@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @DiasKhalniyasov
-- 👀 Currently interested in quantitative analytics
 - :blue_book: I’m currently studying MSc of Data Science in La Sapienza on 2 year
-- :scroll: I have experience working with speech processing models (mostly Text-To-Speech)
 - :revolving_hearts: In free time I like producing music in Fl Studio
 - 📫 How to reach me @dias_kh telegram, khalniyasov.1954228@studenti.uniroma1.it mail
 
