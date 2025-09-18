@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DiasKhalniyasov
-- 📫 How to reach me @dias_kh telegram, khalniyasov.1954228@studenti.uniroma1.it mail
+- 📫 How to reach me @dias_kh telegram, diaskhalniyasov@gmail.com mail
 
 <!---
 DiasKhalniyasov/DiasKhalniyasov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
